@@ -26,4 +26,7 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 streamlit run dashboard/streamlit.py
 ```
 ## Streamlit Dashboard Screenshot
-[![Alt text](https://github.com/GreyWard/Proyek-Analisis-Data-dengan-Python/blob/master/Dashboard%20Screenshot/dash1.png)](https://github.com/GreyWard/Proyek-Analisis-Data-dengan-Python   )
+[![Alt text](https://github.com/GreyWard/Proyek-Analisis-Data-dengan-Python/blob/master/Dashboard%20Screenshot/dash1.png)](https://github.com/GreyWard/Proyek-Analisis-Data-dengan-Python)
+[![Alt text](https://github.com/GreyWard/Proyek-Analisis-Data-dengan-Python/blob/master/Dashboard%20Screenshot/dash2.png)](https://github.com/GreyWard/Proyek-Analisis-Data-dengan-Python)
+[![Alt text](https://github.com/GreyWard/Proyek-Analisis-Data-dengan-Python/blob/master/Dashboard%20Screenshot/dash3.png)](https://github.com/GreyWard/Proyek-Analisis-Data-dengan-Python)
+[![Alt text](https://github.com/GreyWard/Proyek-Analisis-Data-dengan-Python/blob/master/Dashboard%20Screenshot/dash4.png)](https://github.com/GreyWard/Proyek-Analisis-Data-dengan-Python)
