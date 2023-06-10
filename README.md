@@ -1,6 +1,7 @@
 # Bicycle Ride Dashboard
 This dashboard is an interactive dashboard that tells about Bike Ride average in various condition, taken from January 2011 to January 2012. The dashboard provides time filter to filter out specific time range into the data and the insights.
-
+## Streamlit Link
+https://greyward-proyek-analisis-data-dengan--dashboardstreamlit-o69mbe.streamlit.app/
 ## File Contents
 ```
 ├───dashboard
@@ -24,3 +25,4 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
 streamlit run dashboard/streamlit.py
 ```
+## Streamlit Dashboard Screenshot
